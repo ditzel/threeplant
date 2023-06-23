@@ -1,0 +1,25 @@
+{
+  "name": "threeplant",
+  "version": "1.0.1",
+  "description": "Plant generation for three.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ditzel/threeplant.git"
+  },
+  "keywords": [
+    "three.js",
+    "plant",
+    "generation",
+    "3d"
+  ],
+  "author": "ditzel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ditzel/threeplant/issues"
+  },
+  "homepage": "https://github.com/ditzel/threeplant#readme"
+}
