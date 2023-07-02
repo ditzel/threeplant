@@ -6,11 +6,21 @@ Plant Generation for three.js
 
 To be defined!
 
+<!---
+## Build
+
+your comment goes here
+and here
+-->
+
+## Test init
+
+npm install parcel
+
 ## Test
 
-./ npm link \
-./test/ npm threeplant \
-node script.js
+npm link && cd test && npm link threeplant && node script.js
+npm link && cd test && npm link threeplant && parcel index.html
 
 ## License
 
