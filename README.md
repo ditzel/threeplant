@@ -6,21 +6,18 @@ Plant Generation for three.js
 
 To be defined!
 
+## Install
+
+npm i threeplant --save
+
 <!---
+## Init Node Project:
+npm init
+
 ## Build
+npm publish (one time password: google authenticator)
 
-your comment goes here
-and here
 -->
-
-## Test init
-
-npm install parcel
-
-## Test
-
-npm link && cd test && npm link threeplant && node script.js
-npm link && cd test && npm link threeplant && parcel index.html
 
 ## License
 
