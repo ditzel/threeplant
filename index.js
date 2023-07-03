@@ -3,7 +3,7 @@ function isTrue(x) {
 }
 
 function doHi() {
-  console.log("hi");
+  console.log("WAS");
 }
 
 module.exports = { isTrue, doHi };

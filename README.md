@@ -4,7 +4,9 @@ Plant Generation for three.js
 
 ## Usage
 
-To be defined!
+    import { doHi } from "threeplant";
+
+    doHi();
 
 ## Install
 

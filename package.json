@@ -1,6 +1,6 @@
 {
   "name": "threeplant",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Plant generation for three.js",
   "main": "index.js",
   "scripts": {
